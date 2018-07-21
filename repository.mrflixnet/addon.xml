@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mrfreeworld" name=".LLOL GO AWAY BIGLAG!!" version="1.6" provider-name="mrfreeworld">
+	<extension point="xbmc.addon.repository" name=".LLOL GO AWAY BIGLAG!!">
+		<info compressed="false">http://legionworldtv.com/repo/addons.xml</info>
+		<checksum>http://legionworldtv.com/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://legionworldtv.com/repo/</datadir>  
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description>mrfreeworld</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
